@@ -14,45 +14,41 @@
 .img1{
     position: absolute;
     right: 100;
-    top: 200;
+    top: 1800;
 
 }.img2{
     position: absolute;
     right: 100;
-    top: 700;
+    top: 1300;
 
 }
 .img3{
     position: absolute;
     right: 80;
-    top: 200;
+    top: 800;
     margin-right: 5%;
 }
 .img4{
     position: absolute;
     right: 80;
-    top: 440;
-    margin-right: 30%;
+    top: 420;
+    margin-right: 32%;
 }    
-.img5{
-        position: absolute;
-       
-}
 .img6{
     position: absolute;
-    right: 65;
+    right: 55;
     top: 400;
     margin-right: 80%;
 }.img7{
     position: absolute;
-    right: 50;
-    top: 500;
+    right: 5;
+    top: 370;
     margin-right: 70%;
 }.img8{
     position: absolute;
-    right: 80;
-    top: 330;
-    margin-right: 50%;
+    right: 5;
+    top: 370;
+    margin-right: 55%;
 }
 .img9{
     position: absolute;
