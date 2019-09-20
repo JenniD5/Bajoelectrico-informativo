@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 body{
   background-color: #3b3636; 
   margin: 0%;
@@ -149,3 +150,112 @@ a:hover{
     color: white;
 >>>>>>> a8e21f6695cd3ff4dadbfe4443f6431db528be32
 }
+=======
+.vertical-menu {
+    width: 10px;
+    top:3px;
+    bottom: 50%;
+    left: 56px;
+    position: relative;
+    
+
+  }
+  
+  .vertical-menu a {
+    
+    display: block;
+    padding: 12px;
+  
+  }
+  
+  .vertical-menu a:hover {
+    background-color:white;
+  }
+  
+  .vertical-menu a.active {
+    background-color: black;
+    color: white;
+  }
+  
+  .desarrolloindex{
+      margin:0;
+     
+      
+      text-align: left;
+      font-size: 20px;
+      width: 70%;
+      color:black;
+      font-family: sans-serif;
+  }
+  .quees{
+      text-align: center;
+      margin:auto;
+    font-size: 20px;
+    width: 70%;
+    color:black;
+    font-family: sans-serif;
+    position: relative;
+    top: 20px;
+  }
+
+  .desarrollostyle{
+    margin:auto;  
+    text-align: right;
+    font-size: 20px;
+    width: 70%;
+    color:black;
+    font-family: sans-serif;
+    position: relative;
+    right:50px;
+    
+  }
+
+
+  .im1{
+      position:relative;
+      right: 100px;
+      top:1px;
+      opacity:.6;
+  }
+.img2{
+  position:relative;
+  top: 2cm;
+  opacity: .7;
+  left:280px;
+}
+
+.imgindex{
+  position:  relative ;
+  right: 70px;
+  opacity: 1;
+  top: 120px;
+
+  
+}
+
+.imgstyle{
+    position: relative;
+  top:250px;
+  margin: auto;
+  left: 50px;
+}
+
+
+  .desarrollojs{
+    text-align: left;
+    margin:auto;
+    font-size: 20px;
+    width: 70%;
+    color:black;
+    font-family: sans-serif
+  }
+  .imgapp{
+    position: relative;
+    top:100px;
+    right: 50px;
+  }
+
+ 
+
+  
+>>>>>>> development-j
