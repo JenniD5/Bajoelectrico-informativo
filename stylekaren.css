@@ -1,5 +1,5 @@
 body{
-  background-color: #3b3636; 
+  background-color: #111218; 
   margin: 0%;
 }
 
@@ -65,31 +65,31 @@ body{
 .imagen3{
   position:relative;
   right: 150px;
-  top: 50px;
+  top: 0px;
 }
 
 .imagen4{
   position:relative;
-  right: 80px;
-  top: 50px;
+  right: 100px;
+  top: 20px;
 }
 
 .imagen5{
   position:relative;
   right: 200px;
-  top: 50px;
+  top: 0px;
 }
 
 .imagen6{
   position:relative;
   right: 130px;
-  top: 40px;
+  top: 0px;
 }
 
 .imagen7{
   position:relative;
-  left: 100px;
-  top: 80px;
+  right: 200px;
+  top: 20px;
 }
 
 
